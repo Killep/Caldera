@@ -1,9 +1,6 @@
 import React from "react";
 import Instrumentos from "./components/Instrumentos.jsx";
 import Redes from "./components/Redes.jsx";
-import Acustica from "./imagenes/Acustica.jpg";
-import Bateria from "./imagenes/Bateria.jpg";
-import Saxo from "./imagenes/Saxo.jpg";
 
 function App() {
   return (
